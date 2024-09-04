@@ -1,0 +1,14 @@
+-M
+../threads/main.cc
+../threads/scheduler.cc
+../threads/synch.cc
+../threads/system.cc
+../threads/thread.cc
+../threads/utility.cc
+../threads/threadtest.cc
+../threads/diningph.cc
+../machine/interrupt.cc
+../machine/sysdep.cc
+../machine/stats.cc
+../machine/timer.cc
+../threads/preemptive.cc
